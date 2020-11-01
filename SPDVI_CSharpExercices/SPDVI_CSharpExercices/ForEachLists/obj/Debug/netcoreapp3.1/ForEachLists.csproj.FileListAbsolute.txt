@@ -1,0 +1,12 @@
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\bin\Debug\netcoreapp3.1\ForEachLists.exe
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\bin\Debug\netcoreapp3.1\ForEachLists.deps.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\bin\Debug\netcoreapp3.1\ForEachLists.runtimeconfig.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\bin\Debug\netcoreapp3.1\ForEachLists.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\bin\Debug\netcoreapp3.1\ForEachLists.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\bin\Debug\netcoreapp3.1\ForEachLists.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.genruntimeconfig.cache
