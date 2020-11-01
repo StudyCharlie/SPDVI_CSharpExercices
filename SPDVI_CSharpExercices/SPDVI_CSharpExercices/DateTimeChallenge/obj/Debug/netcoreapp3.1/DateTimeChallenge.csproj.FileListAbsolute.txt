@@ -1,0 +1,12 @@
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.exe
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.deps.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.runtimeconfig.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.exe
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.deps.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.runtimeconfig.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.genruntimeconfig.cache

@@ -10,3 +10,4 @@ C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExer
 C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.dll
 C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.pdb
 C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\ForEachLists\obj\Debug\netcoreapp3.1\ForEachLists.csprojAssemblyReference.cache

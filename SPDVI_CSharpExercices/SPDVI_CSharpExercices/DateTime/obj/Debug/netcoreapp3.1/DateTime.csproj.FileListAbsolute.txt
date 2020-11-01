@@ -1,0 +1,13 @@
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\DateTime\obj\Debug\netcoreapp3.1\Datetime.csprojAssemblyReference.cache
