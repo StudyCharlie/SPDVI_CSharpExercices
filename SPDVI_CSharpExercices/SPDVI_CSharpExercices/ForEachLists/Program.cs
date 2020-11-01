@@ -34,6 +34,7 @@ namespace ForEachLists
             people.Add(four);
 
             Console.WriteLine("");
+
             foreach (var person in people)
             {
                 Console.WriteLine("Hello " + person.FirstName + "" + person.LastName);
