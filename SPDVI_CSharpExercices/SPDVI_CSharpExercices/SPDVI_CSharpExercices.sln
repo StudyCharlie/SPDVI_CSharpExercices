@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSpan", "TimeSpan\TimeSp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeChallenge", "DateTimeChallenge\DateTimeChallenge.csproj", "{84A9D2A7-B841-4F20-A430-26E18DF81232}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileDataAccess", "TextFileDataAccess\TextFileDataAccess.csproj", "{BC4E51E8-0CE3-4BE1-8B46-1724B7A8E658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileChallenge", "TextFileChallenge\TextFileChallenge.csproj", "{755CECE3-784D-459B-B3AB-178C9E9E2D69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{84A9D2A7-B841-4F20-A430-26E18DF81232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84A9D2A7-B841-4F20-A430-26E18DF81232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84A9D2A7-B841-4F20-A430-26E18DF81232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4E51E8-0CE3-4BE1-8B46-1724B7A8E658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E51E8-0CE3-4BE1-8B46-1724B7A8E658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E51E8-0CE3-4BE1-8B46-1724B7A8E658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E51E8-0CE3-4BE1-8B46-1724B7A8E658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755CECE3-784D-459B-B3AB-178C9E9E2D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755CECE3-784D-459B-B3AB-178C9E9E2D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755CECE3-784D-459B-B3AB-178C9E9E2D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755CECE3-784D-459B-B3AB-178C9E9E2D69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\bin\Debug\netcoreapp3.1\TextFileDataAccess.exe
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\bin\Debug\netcoreapp3.1\TextFileDataAccess.deps.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\bin\Debug\netcoreapp3.1\TextFileDataAccess.runtimeconfig.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\bin\Debug\netcoreapp3.1\TextFileDataAccess.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\bin\Debug\netcoreapp3.1\TextFileDataAccess.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\bin\Debug\netcoreapp3.1\TextFileDataAccess.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\obj\Debug\netcoreapp3.1\TextFileDataAccess.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\obj\Debug\netcoreapp3.1\TextFileDataAccess.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\obj\Debug\netcoreapp3.1\TextFileDataAccess.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\obj\Debug\netcoreapp3.1\TextFileDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\obj\Debug\netcoreapp3.1\TextFileDataAccess.dll
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\obj\Debug\netcoreapp3.1\TextFileDataAccess.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\obj\Debug\netcoreapp3.1\TextFileDataAccess.genruntimeconfig.cache
