@@ -1,0 +1,10 @@
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\bin\Debug\WinformToDoChallenge.exe.config
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\bin\Debug\WinformToDoChallenge.exe
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\bin\Debug\WinformToDoChallenge.pdb
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\obj\Debug\WinformToDoChallenge.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\obj\Debug\WinformToDoChallenge.WinformToDo.resources
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\obj\Debug\WinformToDoChallenge.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\obj\Debug\WinformToDoChallenge.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\obj\Debug\WinformToDoChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\obj\Debug\WinformToDoChallenge.exe
+C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\WinformToDoChallenge\obj\Debug\WinformToDoChallenge.pdb
