@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Carlos\\.nuget\\packages\\": {}
+    "C:\\Users\\CharliEnglish\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\Clase\\Interficies\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\ForEachLists\\ForEachLists.csproj",
+      "projectUniqueName": "C:\\Users\\CharliEnglish\\Desktop\\Segundo DAM\\1ª Evaluacion\\Desarrollo de interfaces\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\ForEachLists\\ForEachLists.csproj",
       "projectName": "ForEachLists",
-      "projectPath": "C:\\Users\\Carlos\\Desktop\\Clase\\Interficies\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\ForEachLists\\ForEachLists.csproj",
-      "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos\\Desktop\\Clase\\Interficies\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\ForEachLists\\obj\\",
+      "projectPath": "C:\\Users\\CharliEnglish\\Desktop\\Segundo DAM\\1ª Evaluacion\\Desarrollo de interfaces\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\ForEachLists\\ForEachLists.csproj",
+      "packagesPath": "C:\\Users\\CharliEnglish\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CharliEnglish\\Desktop\\Segundo DAM\\1ª Evaluacion\\Desarrollo de interfaces\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\ForEachLists\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CharliEnglish\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

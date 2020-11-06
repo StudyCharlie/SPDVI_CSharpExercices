@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos\\Desktop\\Clase\\Interficies\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\TextFileDataAccess.csproj": {}
+    "C:\\Users\\CharliEnglish\\Desktop\\Segundo DAM\\1ª Evaluacion\\Desarrollo de interfaces\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\TextFileDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos\\Desktop\\Clase\\Interficies\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\TextFileDataAccess.csproj": {
+    "C:\\Users\\CharliEnglish\\Desktop\\Segundo DAM\\1ª Evaluacion\\Desarrollo de interfaces\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\TextFileDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\Clase\\Interficies\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\TextFileDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\CharliEnglish\\Desktop\\Segundo DAM\\1ª Evaluacion\\Desarrollo de interfaces\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\TextFileDataAccess.csproj",
         "projectName": "TextFileDataAccess",
-        "projectPath": "C:\\Users\\Carlos\\Desktop\\Clase\\Interficies\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\TextFileDataAccess.csproj",
-        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos\\Desktop\\Clase\\Interficies\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\obj\\",
+        "projectPath": "C:\\Users\\CharliEnglish\\Desktop\\Segundo DAM\\1ª Evaluacion\\Desarrollo de interfaces\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\TextFileDataAccess.csproj",
+        "packagesPath": "C:\\Users\\CharliEnglish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CharliEnglish\\Desktop\\Segundo DAM\\1ª Evaluacion\\Desarrollo de interfaces\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\SPDVI_CSharpExercices\\TextFileDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CharliEnglish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

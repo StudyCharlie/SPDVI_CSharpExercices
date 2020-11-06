@@ -9,7 +9,7 @@ namespace TextFileDataAccess
     {
         static void Main(string[] args)
         {
-            string filePath = @"C:\Users\Carlos\Desktop\Clase\Interficies\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileDataAccess\Text.txt";
+            string filePath = @"C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVI_CSharpExercices\SPDVI_CSharpExercices\SPDVI_CSharpExercices\TextFileChallenge\Text.txt";
 
             //List<String> lines = File.ReadAllLines(filePath).ToList();
 
